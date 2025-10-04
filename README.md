@@ -1,1 +1,1 @@
-This directory contains shell init, variables and expansions tasks.
+This project is about shell init files, variables and expansions.
